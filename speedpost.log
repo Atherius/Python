@@ -1,9 +1,0 @@
-2025-01-20 09:40:09,001 - ApplicationLogger - INFO - User Validation
-2025-01-20 09:40:09,001 - ApplicationLogger - INFO - FirstName Validation Successful!
-2025-01-20 09:40:09,001 - ApplicationLogger - INFO - LastName Validation Successful!
-2025-01-20 09:40:09,001 - ApplicationLogger - INFO - Email Validation Successful!
-2025-01-20 09:40:09,011 - ApplicationLogger - INFO - Mobile Number Validation Successful!
-2025-01-20 09:40:09,011 - ApplicationLogger - INFO - Address Validation Successful!
-2025-01-20 09:40:09,011 - ApplicationLogger - INFO - Zipcode Validation Successful!
-2025-01-20 09:40:09,011 - ApplicationLogger - INFO - Pin Validation Successful!
-2025-01-20 09:40:29,528 - ApplicationLogger - INFO - Consignment created with Tracking ID: YOF1863019
